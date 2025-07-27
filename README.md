@@ -89,20 +89,4 @@ $ docker-compose up -d --build
 Then open http://localhost:8501 and enjoy :smiley:.
 
 PS: You should have docker and docker-compose already installed
-### Use the hosted version on Streamlit Cloud
 
-https://diet-recommendation-system.streamlit.app/
-
-## Citation
-```
-@software{narjis_2024_12507829,
-  author       = {Narjis, Zakaria},
-  title        = {Diet recommendation system},
-  month        = jun,
-  year         = 2024,
-  publisher    = {Zenodo},
-  version      = {v1.0.1},
-  doi          = {10.5281/zenodo.12507829},
-  url          = {https://doi.org/10.5281/zenodo.12507829}
-}
-```
